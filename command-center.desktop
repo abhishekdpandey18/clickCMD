@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Command Center
+Comment=Visual dashboard for Linux commands
+Exec=/usr/bin/python3 /absolute/path/to/command-center/main.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=true

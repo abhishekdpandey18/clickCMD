@@ -1,0 +1,34 @@
+{
+    "settings": {
+        "theme": "dark",
+        "columns": 4,
+        "button_width": 220,
+        "button_height": 105,
+        "font_size": 11,
+        "window_geometry": "1280x800",
+        "background": "#0b1020",
+        "accent": "#7c5cff",
+        "show_output_panel": true,
+        "history_limit": 50,
+        "favorites_only": false
+    },
+    "categories": [
+        {
+            "name": "System",
+            "buttons": [
+                {
+                    "id": "terminal",
+                    "name": "Open Terminal",
+                    "command": "xfce4-terminal",
+                    "description": "Open a terminal window.",
+                    "icon": "💻",
+                    "color": "#182235",
+                    "text_color": "#ffffff",
+                    "working_directory": "~",
+                    "execution_mode": "normal",
+                    "favorite": false
+                }
+            ]
+        }
+    ]
+}

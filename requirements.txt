@@ -1,0 +1,2 @@
+# Command Center uses only Python's standard library.
+# Tkinter is provided by the OS package (e.g. python3-tk on Debian/Ubuntu).
